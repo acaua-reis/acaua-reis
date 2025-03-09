@@ -9,6 +9,6 @@ Desenvolvedor Full-Stack
 O restante pode ser visto em GitHub acaua-reis
 
 Contatos:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/acaua-reis/)
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:acareis01@gmail.com)
+[![LinkedIn](https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png)](https://www.linkedin.com/in/acaua-reis/)
+
 
