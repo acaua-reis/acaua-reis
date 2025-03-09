@@ -10,5 +10,5 @@ O restante pode ser visto em GitHub: [acaua-reis](https://github.com/acaua-reis)
 
 ## Contatos:
 
-[![LinkedIn](https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png)](https://www.linkedin.com/in/acaua-reis/)  
-[![E-mail](https://img.icons8.com/ios-filled/50/000000/email.png)](mailto:seuemail@gmail.com)
+
+[![LinkedIn](https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png)](https://www.linkedin.com/in/acaua-reis/)  [![E-mail](https://img.icons8.com/ios-filled/50/000000/mail.png)](mailto:acareis01@gmail.com)
